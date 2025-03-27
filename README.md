@@ -1,5 +1,5 @@
 # ArtificialVision
-A brief presentation about a Aritificial Vision project I made using ROS 2 and OpenCV library in C++
+A brief presentation about an Aritificial Vision project I made using ROS 2 and OpenCV library in C++
 
 The aim of the project was to make different configurations in the camera of the Thiago Robot to do the following tasks:
 1. Detection of balls of a particular color, their center and contour, both in the 2D Image and 3D space.
